@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ブレインロット",
+  "base_artist": "東京真中",
+  "createdAt": "2026-02-27T11:27:38.909654Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブレインロット",
+      "artist": "東京真中",
+      "has_synced": false,
+      "path": "select/pl_01_ブレインロット_東京真中.txt"
+    }
+  ]
+}
